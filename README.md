@@ -7,13 +7,13 @@ env file contain
 
 PORT=8086
 
-MONGO_DB_URL=<url_of_monogo>
+MONGO_DB_URL="url_of_monogo"
 
-USER_MODEL=<user model>
+USER_MODEL="user model"
   
-SENDGRID_API_KEY=<sendgrid api ket>
+SENDGRID_API_KEY="sendgrid api ket"
   
-SENDGRID_FROM_EMAIL=<sending from email>
+SENDGRID_FROM_EMAIL="sending from email"
   
-LOG_MODEL=<log model>
+LOG_MODEL="log model"
  
